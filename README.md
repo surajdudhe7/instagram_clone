@@ -1,16 +1,48 @@
-# flutter_application_1
+# Instagram Clone in Flutter
 
-A new Flutter project.
+A fully functional Instagram clone built with Flutter, mimicking the core features of the popular social media platform. This project demonstrates the integration of Firebase for backend functionality and provides a modern, responsive UI.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Table of Contents
 
-A few resources to get you started if this is your first Flutter project:
+1. [Features](#features)
+2. [Screenshots](#screenshots)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Project Structure](#project-structure)
+6. [Dependencies](#dependencies)
+7. [Contributing](#contributing)
+8. [License](#license)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+
+- User authentication (sign up, login, logout) with Firebase.
+- Create, view, like, and comment on posts.
+- Follow and unfollow users.
+- Real-time feed updates.
+- Profile management and editing.
+- Responsive design for various screen sizes.
+
+---
+
+## Screenshots
+
+| Page Name           | Preview                                                                 |
+|---------------------|-------------------------------------------------------------------------|
+| **Login Page**      | <img src="screens/login.png" height="600"/>                            |
+| **Feed Page**       | <img src="screens/feed.png" height="600"/>                             |
+| **Profile Page**    | <img src="screens/profile.png" height="600"/>                          |
+
+---
+
+## Installation
+
+
+Follow these steps to set up the project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/surajdudhe7/instagram_clone_flutter.git
